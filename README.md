@@ -14,7 +14,9 @@ Mail: joyanta.csebracu@gmail.com
 I took the class in Bangla as most of the students are comfortable in Bangla here. 
 
 Date: 05/04/2022 (Tuesday)
+
 Time: 2:00 PM
+
 Session: Spring'22
 
 I thank [Meem Arafat Manab](https://www.bracu.ac.bd/about/people/meem-arafat-manab) Sir for honoring me with the request to take a class on Deep Learning for the starters in his absence. I feel highly honored to get this chance as an undergrad student in the university.
