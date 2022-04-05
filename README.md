@@ -19,5 +19,5 @@ Time: 2:00 PM
 
 Session: Spring'22
 
-I thank [Meem Arafat Manab](https://www.bracu.ac.bd/about/people/meem-arafat-manab) Sir for honoring me with the request to take a class on Deep Learning for the starters in his absence. I feel highly honored to get this chance as an undergrad student in the university.
+I thank [Meem Arafat Manab](https://www.bracu.ac.bd/about/people/meem-arafat-manab) Sir for honoring me with the invitation to take a class on Deep Learning for the starters in his absence. I feel highly honored to get this chance as an undergrad student in the university.
 
