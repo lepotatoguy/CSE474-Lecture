@@ -5,6 +5,8 @@ Slides: https://docs.google.com/presentation/d/12t9wUJTEA2Zi5LKcsSrE7jCglWy-klhA
 
 Code: https://colab.research.google.com/drive/1svfu4vyx7z3NKCHsv1V0K4mBb4EDYke-?usp=sharing
 
+Dataset used in the Code: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+
 Lecture Video: https://youtu.be/Q-0EQ8sSv60
 
 If you have any question, do not hesitate to ask in the mail if you have any. 
